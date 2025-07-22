@@ -23,4 +23,3 @@ Este é um projeto simples desenvolvido em **Java puro**, com o objetivo de gera
 ├── entities/ # Entidade Produto  
 ├── styles/ # HTML e CSS separados em classes  
 └── module-info.java  
-# Lista-de-Compras
