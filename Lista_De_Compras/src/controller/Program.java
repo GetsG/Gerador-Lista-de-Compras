@@ -23,7 +23,7 @@ public class Program {
 		
 		while(!produto.equals("fim")) {
 		
-		produto = sc.next();
+		produto = sc.nextLine();
 		if(!produto.equals("fim")){
 			pd.add(new Produto(produto));
 		}
